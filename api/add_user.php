@@ -1,5 +1,5 @@
 <?php
-include_once "../base.php";
+include_once "db_info.php";
 
 $acct=$_POST['acct'];
 $psw=$_POST['psw'];

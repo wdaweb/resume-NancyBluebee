@@ -128,7 +128,7 @@
                                     <a href="images/fulls/06.jpg"><img src="images/thumbs/06.png" alt="" title="This right here is a caption." /></a>
                                 </div>
                                 <div class="media">
-                                    <a href="images/fulls/10.jpg"><img src="images/thumbs/10.png" alt="" title="This right here is a caption." /></a>
+                                    <a href="images/fulls/10.png"><img src="images/thumbs/10.png" alt="" title="This right here is a caption." /></a>
                                 </div>
                                 <div class="media">
                                     <a href="images/fulls/03.jpg"><img src="images/thumbs/03.png" alt="" title="This right here is a caption." /></a>

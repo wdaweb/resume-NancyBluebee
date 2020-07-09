@@ -100,7 +100,7 @@
     <div class="flex">
         <?php include "./include/header2.php"; ?>
     </div>
-    <form action="./api/base.php" id="reg" method="post">
+    <form action="./api/add_user.php" id="reg" method="post">
 
         <!-- 註冊表單內容 -->
         <div class="reg d-flex align-items-center justify-content-center">
